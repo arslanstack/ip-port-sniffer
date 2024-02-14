@@ -18,7 +18,7 @@ To run the program, follow these simple steps:
    cargo run -- -h
 
 3. **Run the Sniffer:**
-  Open your terminal and navigate to the project directory. Run the following command, replacing <number of threads> with the desired number of threads and <your IP address> with your actual IP address:
+  Open your terminal and navigate to the project directory. Run the following command, replacing `<number of threads>` with the desired number of threads and `<your IP address>` with your actual IP address:
 
    ```bash
    cargo run -- -j <number of threads> <your IP address>
